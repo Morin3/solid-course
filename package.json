@@ -23,7 +23,7 @@
     "solid-start": "^0.2.0",
     "solid-start-mdx": "0.2.3",
     "solid-start-netlify": "0.2.3",
-    "rollup": "^3.2.5",
+    "rollup": "^4.28.1",
     "undici": "^5.11.0"
   },
   "engines": {
